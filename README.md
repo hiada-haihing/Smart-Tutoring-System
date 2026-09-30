@@ -336,3 +336,7 @@ pip install -r requirements.txt
 ## License
 
 This project is intended for educational and research purposes.
+
+# Smart-Tutoring-System
+The Smart Tutoring System (STS) is a web-based learning platform developed using HTML, CSS, and JavaScript with Firebase. It provides courses, learning materials, quizzes, performance tracking, and AI-based quiz generation from uploaded PDF content for personalized and interactive learning.
+
